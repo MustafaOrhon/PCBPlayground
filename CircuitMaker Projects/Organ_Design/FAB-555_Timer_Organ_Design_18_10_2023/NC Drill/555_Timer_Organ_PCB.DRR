@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 555_Timer_Organ_PCB.CMPcbDoc   18/10/2023  21:56:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 555_Timer_Organ_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      26mil (0.665mm)                                           Round             6         PTH        3.16inch (80.27mm)
+T2      28mil (0.701mm)                                           Round             4         PTH        3.23inch (82.08mm)
+T3      30mil (0.749mm)                                           Round             30        PTH        13.92inch (353.60mm)
+T4      30mil (0.762mm)                                           Round             31        PTH        15.74inch (399.82mm)
+T5      32mil (0.81mm)                                            Round             2         PTH        0.10inch (2.54mm)
+T6      35mil (0.899mm)                                           Round             13        PTH        4.40inch (111.86mm)
+T7      39mil (1.001mm)                                           Round             5         PTH        0.74inch (18.82mm)
+T8      40mil (1.021mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T9      47mil (1.199mm)                                           Round             2         PTH        0.39inch (10.00mm)
+T10     87mil (2.2mm)                                             Round             2         PTH        0.50inch (12.70mm)
+T11     125mil (3.175mm)                                          Round             4         PTH        21.17inch (537.72mm)
+T12     130mil (3.299mm)                                          Round             4         PTH        2.75inch (69.89mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              105
+
+Total Processing Time (hh:mm:ss) : 00:00:00
