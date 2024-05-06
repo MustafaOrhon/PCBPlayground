@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SmartGreenhousePCB.CMPcbDoc   04/05/2024  04:11:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : SmartGreenhousePCB-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.356mm)                                           Round             108       PTH        15.64inch (397.33mm)
+T2      15mil (0.381mm)                                           Round             8         PTH        2.30inch (58.52mm)
+T3      25mil (0.635mm)                                           Round             4         PTH        0.91inch (23.08mm)
+T4      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      30mil (0.762mm)                                           Round             2         PTH        1.14inch (28.84mm)
+T6      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.62mm)
+T7      79mil (1.999mm)                                           Round             2         PTH        0.18inch (4.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              127
+
+Total Processing Time (hh:mm:ss) : 00:00:00
